@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="editText_label">Name</string>
+    <string name="store_button">保存</string>
+</resources>
